@@ -1,0 +1,19 @@
+{
+  "name": "compared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRAZYFAKE/compared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRAZYFAKE/compared/issues"
+  },
+  "homepage": "https://github.com/CRAZYFAKE/compared#readme"
+}
