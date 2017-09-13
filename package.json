@@ -1,6 +1,6 @@
 {
   "name": "compared",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Compare Array item length",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/CRAZYFAKE/compared/issues"
   },
-  "homepage": "https://github.com/CRAZYFAKE/compared#readme"
+  "homepage": "https://github.com/CRAZYFAKE/compared#readme",
+  "keywords": [
+    "compare",
+    "compared",
+    "long",
+    "longest",
+    "array",
+    "element",
+    "item",
+    "length"
+  ],
+  "devDependencies": {
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.3.0"
+  }
 }
