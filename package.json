@@ -1,7 +1,7 @@
 {
   "name": "compared",
   "version": "1.0.0",
-  "description": "",
+  "description": "Compare Array item length",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
