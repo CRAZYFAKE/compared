@@ -1,6 +1,8 @@
 # compared
 Compare Array item length
 
+Currently, I only write the longest function, next I will write shortest method.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
