@@ -28,13 +28,16 @@ module.exports = function (array) {
             // If item is number,turn it as String
             longest = String(longest)
             longestLen = longest.length
+            shortest = String(shortest)
+            shortestLen = shortest.length
         } else {
             // If item isn't 'string' or 'number'
             longestLen = MIN_VALUE
-            // shortestLen = MAX_VALUE
+            shortestLen = MAX_VALUE
         }
     } else {
         longestLen = longest.length
+        shortestLen = shortest.length
     }
 
     while (++index < length) {
